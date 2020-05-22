@@ -1,5 +1,8 @@
 # CHAT REAL TIME
 
+![chat](https://user-images.githubusercontent.com/60434681/82680245-5eb59100-9c22-11ea-8951-42520e1e9c6f.gif)
+
+
 - Criar aplicações real-time com NodeJS fica muito fácil utilizando o poder do Socket.io.
 Aplicação de chat em tempo real conversando com um servidor em NodeJS.
 
